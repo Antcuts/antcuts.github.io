@@ -1,4 +1,4 @@
-# 测试专用
+### 测试专用
 
 ## 模板说明
  
@@ -9,5 +9,5 @@
 模板来自IT Man
 以及，Fork时忘了换收款码的，别来找我嗷！🤪
 
-# 捐赠(Donate)
+# 捐赠给Antcuts
 ![Donate](WeChatReward-Donate.jpg)
